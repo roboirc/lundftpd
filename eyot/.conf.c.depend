@@ -1,0 +1,2 @@
+conf.o: conf.c ../lion/lion.h ../lion/lion_rcsid.h \
+ ../lion/lion_types.h conf.h irc.h udp.h announce.h

@@ -1,0 +1,8 @@
+eyot-blowfish.o: blowfish.c /usr/include/stdc-predef.h ../config.h \
+ blowfish.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
+
+blowfish.h:

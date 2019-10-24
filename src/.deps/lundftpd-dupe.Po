@@ -1,0 +1,5 @@
+lundftpd-dupe.o: dupe.c /usr/include/stdc-predef.h ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:

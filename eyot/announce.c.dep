@@ -1,0 +1,3 @@
+announce.o: announce.c ../lion/src/lion.h ../lion/src/lion_rcsid.h \
+  ../lion/src/lion_types.h ../lion/src/timers.h ../lion/src/lion.h irc.h \
+  udp.h announce.h parser.h

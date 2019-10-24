@@ -1,0 +1,2 @@
+eyot.o: eyot.c ../lion/lion.h ../lion/lion_rcsid.h \
+ ../lion/lion_types.h eyot.h irc.h udp.h conf.h arguments.h

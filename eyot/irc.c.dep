@@ -1,0 +1,4 @@
+irc.o: irc.c ../lion/src/lion.h ../lion/src/lion_rcsid.h \
+  ../lion/src/lion_types.h ../lion/src/timers.h ../lion/src/lion.h \
+  ../lion/src/misc.h irc.h udp.h irc_state.h conf.h announce.h \
+  arguments.h

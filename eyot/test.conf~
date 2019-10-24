@@ -1,0 +1,39 @@
+
+ftpserver {
+	name = "Zanity";
+	port = 2123;
+	passwd = "feedcat2day";
+};
+
+ircserver {
+	ip = "lundman.net";
+	name = "effnet";
+	port = 6510;
+	ssl = yes;
+	mode = "+i";
+#	passwd = "";
+	nick = "Zanity";
+	user = "Uranus";
+	owner = "*!*wookiee@*.drunkmonk.net";
+
+	channel {
+		name = "#evil";
+		ftpserver = "Zanity";
+		announce = "announce-zanity-colour";
+	};
+
+};
+
+announce {
+
+	section = "DEFAULT";
+
+	# This one is probably obsolete.
+	channel = "#obsolete";
+
+	name = "announce-zanity-colour";
+
+	#include "test.announce" 
+
+};
+

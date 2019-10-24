@@ -1,0 +1,24 @@
+/cmd.h/1.2/Wed Oct 15 03:51:22 2003//
+/conf.h/1.2/Wed Oct 15 03:51:23 2003//
+/eyot.h/1.2/Wed Oct 15 03:51:24 2003//
+/parser.h/1.2/Wed Oct 15 03:51:25 2003//
+D/conf////
+/announce.h/1.3/Fri Oct 31 09:46:14 2003//
+/irc_state.h/1.3/Fri Oct 31 02:52:38 2003//
+/readme.txt/1.3/Fri Oct 17 08:16:10 2003//
+/arguments.h/1.1/Fri Oct 31 08:50:52 2003//
+/MakeTempl/1.3/Sun Dec 14 03:54:07 2003//
+/blowfish.h/1.1/Tue Jun 21 02:27:36 2005//
+/udp.h/1.7/Wed Jun 22 00:41:41 2005//
+/Makefile.am/1.1/Wed Aug 26 05:18:28 2009//
+/irc.h/1.7/Wed Aug 26 05:11:42 2009//
+/arguments.c/1.3/Wed Aug 26 05:50:02 2009//
+/blowfish.c/1.2/Wed Aug 26 05:50:13 2009//
+/cmd.c/1.8/Wed Aug 26 05:50:22 2009//
+/conf.c/1.11/Wed Aug 26 05:50:29 2009//
+/irc.c/1.13/Wed Aug 26 05:50:46 2009//
+/irc_state.c/1.13/Wed Aug 26 05:50:51 2009//
+/parser.c/1.4/Wed Aug 26 05:51:36 2009//
+/udp.c/1.15/Wed Aug 26 06:09:41 2009//
+/eyot.c/1.8/Mon Dec 19 03:48:51 2011//
+/announce.c/1.11/Wed Dec 21 02:58:23 2011//

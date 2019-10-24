@@ -1,0 +1,2 @@
+udp.o: udp.c ../lion/lion.h ../lion/lion_rcsid.h ../lion/lion_types.h \
+ ../lion/misc.h udp.h parser.h cmd.h irc.h conf.h

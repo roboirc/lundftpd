@@ -1,0 +1,3 @@
+irc_state.o: irc_state.c ../lion/lion.h ../lion/lion_rcsid.h \
+ ../lion/lion_types.h ../lion/misc.h irc.h udp.h irc_state.h \
+ arguments.h
